@@ -4,7 +4,7 @@ AWS EC2 Ubuntu Linux lab accessed via SSH from macOS terminal, showcasing secure
 # AWS EC2 Ubuntu Linux Lab (Free Tier)
 
 ## 📌 Overview
-This repository documents a hands-on AWS lab where I deployed and managed a **running EC2 Ubuntu Linux instance**. I connected to the instance via **SSH from my macOS Terminal**, and all Linux administration commands were executed on the **remote Ubuntu Linux server**.
+This repository documents a hands-on AWS lab where I deployed and managed a running EC2 Ubuntu Linux instance. I connected to the instance via SSH from my macOS Terminal, and all Linux administration commands were executed on the remote Ubuntu Linux server.
 
 ---
 
@@ -54,9 +54,10 @@ This repository documents a hands-on AWS lab where I deployed and managed a **ru
 - Updated packages
 - Installed and used `htop` for monitoring
 
-Example commands:
+Example commands used during the lab:
+
 ```bash
-cat /etc/os-release
 sudo apt update
 sudo apt install htop -y
 htop
+
