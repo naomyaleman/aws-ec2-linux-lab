@@ -22,19 +22,19 @@ This repository documents a hands-on AWS lab where I deployed and managed a **ru
 ## ✅ Screenshots 1–6 (Proof of Work)
 
 ### 1) Screenshot 1 — EC2 Instance Running
-![Screenshot 1 - EC2 Running](01-ec2-running.png)
+![Screenshot 1 - EC2 Running](01-instance-running.png)
 
 ### 2) Screenshot 2 — Security Group Configuration (SSH)
-![Screenshot 2 - Security Group](02-security-group.png)
+![Screenshot 2 - Security Group](02-ssh-connected.png)
 
 ### 3) Screenshot 3 — SSH Connected from macOS Terminal
-![Screenshot 3 - SSH Connected](03-ssh-connected.png)
+![Screenshot 3 - SSH Connected](03-user-created.png)
 
 ### 4) Screenshot 4 — Linux Verification (Ubuntu on EC2)
-![Screenshot 4 - Linux Verification](04-linux-verification.png)
+![Screenshot 4 - Linux Verification](04-htop-running.png)
 
 ### 5) Screenshot 5 — System Monitoring with htop
-![Screenshot 5 - htop](05-htop.png)
+![Screenshot 5 - htop](05-notes-file.png)
 
 ### 6) Screenshot 6 — EC2 Instance Stopped (Cost Control)
 ![Screenshot 6 - Instance Stopped](06-instance-stopped.png)
