@@ -30,10 +30,10 @@ This repository documents a hands-on AWS lab where I deployed and managed a runn
 ### 3) Screenshot 3 — Security Group Configuration (SSH)
 ![Screenshot 3 - SSH Connected](03-user-created.png)
 
-### 4) Screenshot 4 — Linux Verification (Ubuntu on EC2)
+### 4) Screenshot 4 — System Monitoring with htop 
 ![Screenshot 4 - Linux Verification](04-htop-running.png)
 
-### 5) Screenshot 5 — System Monitoring with htop
+### 5) Screenshot 5 — File Creation and Linux Navigation (notes.txt)
 ![Screenshot 5 - htop](05-notes-file.png)
 
 ### 6) Screenshot 6 — EC2 Instance Stopped (Cost Control)
