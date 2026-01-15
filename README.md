@@ -24,10 +24,10 @@ This repository documents a hands-on AWS lab where I deployed and managed a runn
 ### 1) Screenshot 1 — EC2 Instance Running
 ![Screenshot 1 - EC2 Running](01-instance-running.png)
 
-### 2) Screenshot 2 — Security Group Configuration (SSH)
+### 2) Screenshot 2 — SSH Connected from macOS Terminal Security Group Configuration (SSH)
 ![Screenshot 2 - Security Group](02-ssh-connected.png)
 
-### 3) Screenshot 3 — SSH Connected from macOS Terminal
+### 3) Screenshot 3 — Security Group Configuration (SSH)
 ![Screenshot 3 - SSH Connected](03-user-created.png)
 
 ### 4) Screenshot 4 — Linux Verification (Ubuntu on EC2)
